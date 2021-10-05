@@ -1,4 +1,4 @@
-package com.niforacnes.bloom_compose
+package com.niforances.bloom_compose
 
 import org.junit.Test
 

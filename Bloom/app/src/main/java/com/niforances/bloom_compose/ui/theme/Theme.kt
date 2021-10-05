@@ -1,4 +1,4 @@
-package com.niforacnes.bloom_compose.ui.theme
+package com.niforances.bloom_compose.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
