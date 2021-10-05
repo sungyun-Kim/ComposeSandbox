@@ -1,2 +1,4 @@
 # ComposeSandbox
-compose 연습용
+android-dev-challenge-compose
+
+1. Bloom - 3w subject
